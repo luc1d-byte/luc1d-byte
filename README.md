@@ -13,8 +13,10 @@
 <div align="center">
   <a href="https://github.com/luc1d-byte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc1d-byte&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc1d-byte&layout=compact&langs_count=7&theme=aura"/>
 </div>
+  
+
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="luc1d-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
   <img align="center" alt="luc1d-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
